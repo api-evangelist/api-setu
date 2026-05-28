@@ -1,0 +1,32 @@
+aid: api-setu
+name: API Setu
+description: "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment"
+url: https://www.apisetu.gov.in/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: API Setu
+    description: "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment"
+    humanURL: https://www.apisetu.gov.in/
+    baseURL: https://www.apisetu.gov.in/
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://www.apisetu.gov.in/
+common:
+  - type: Website
+    url: https://www.apisetu.gov.in/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
