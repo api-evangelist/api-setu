@@ -39,7 +39,6 @@ apis:
   - name: API Setu
     description: "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment"
     humanURL: https://www.apisetu.gov.in/
-    baseURL: https://www.apisetu.gov.in/
     tags:
       - Open Data
     properties:
